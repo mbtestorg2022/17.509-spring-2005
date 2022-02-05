@@ -4,15 +4,147 @@ title: Calendar
 uid: b7585d36-f74c-3781-29e9-70db7da5893a
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Objectives and Requirements of the Course | &nbsp; |
-| 2-3 | Social Movement Theory | &nbsp; |
-| 4-5 | Social Movement Theory and the Civil Rights Movement | &nbsp; |
-| 6-7 | The Rise and Decline of the Civil Rights Movement | &nbsp; |
-| 8-11 | Does the Civil Rights Movement provide a Universal Template?  {{< br >}}  {{< br >}}_Why no Civil Rights Movement in Brazil  {{< br >}}  {{< br >}}__Difficulties in Organizing the Unemployed and Poor_ | First take-home essay due on Lecture 9 |
-| 12 | Abortion: The Pro-Choice and Pro-Life Movements | &nbsp; |
-| 13 | Midterm In-Class Exam | &nbsp; |
-| 14-17 | Abortion: The Pro-Choice and Pro-Life Movements (contd.) | &nbsp; |
-| 18-24 | The "Newest" Social Movement? Gay and Lesbian Rights  {{< br >}}  {{< br >}}_From Gay Liberation to Same-Sex Marriage?_ | &nbsp; |
-| 25-26 | Student Presentations | Final paper due on Lecture 26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Objectives and Requirements of the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Social Movement Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Social Movement Theory and the Civil Rights Movement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise and Decline of the Civil Rights Movement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-11
+{{< tdclose >}}
+{{< tdopen >}}
+Does the Civil Rights Movement provide a Universal Template?  
+  
+_Why no Civil Rights Movement in Brazil  
+  
+__Difficulties in Organizing the Unemployed and Poor_
+{{< tdclose >}}
+{{< tdopen >}}
+First take-home essay due on Lecture 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Abortion: The Pro-Choice and Pro-Life Movements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm In-Class Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-17
+{{< tdclose >}}
+{{< tdopen >}}
+Abortion: The Pro-Choice and Pro-Life Movements (contd.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-24
+{{< tdclose >}}
+{{< tdopen >}}
+The "Newest" Social Movement? Gay and Lesbian Rights  
+  
+_From Gay Liberation to Same-Sex Marriage?_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due on Lecture 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
